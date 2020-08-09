@@ -1,0 +1,11 @@
+{
+  "name": "findit",
+  "version": "1.0.0",
+  "description": "Reddit article search app\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ds \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bs search app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
