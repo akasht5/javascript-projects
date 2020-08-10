@@ -1,0 +1,12 @@
+{
+  "name": "findit",
+  "version": "1.0.0",
+  "description": "This is reddit article search app",
+  "main": "index.js",
+  "scripts": {
+    "dev":"parcel index.html",
+    "build":"parcel build index.html --out-dir prod"
+  },
+  "author": "",
+  "license": "MIT"
+}
